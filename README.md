@@ -17,7 +17,7 @@ For this dataset, the problem we're trying to solve, or better, the question we'
 
 ## 2. Data
 
-Looking at the [dataset from Kaggle](https://www.kaggle.com/c/bluebook-for-bulldozers/data), you can you it's a time series problem. This means there's a time attribute to dataset.
+Looking at the [dataset from Kaggle](https://www.kaggle.com/c/bluebook-for-bulldozers/data), you can understand it's a time series problem. This means there's a time attribute to dataset.
 
 In this case, it's historical sales data of bulldozers. Including things like, model type, size, sale date and more.
 
